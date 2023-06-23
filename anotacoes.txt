@@ -1,3 +1,8 @@
+o arquivo _app.tsx ele encapsula todas as paginas no nivel de client
+
+o arquivo _document.tsx ele encapsula todo o projeto inclusive o lado do server
+
+
 PWA:
 
 yarn build
