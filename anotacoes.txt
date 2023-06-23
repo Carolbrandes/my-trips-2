@@ -1,0 +1,9 @@
+PWA:
+
+yarn build
+yarn start
+
+
+para inicializar um novo projeto next usando um boilerplate customizado:
+
+yarn create next-app -e urlgit
